@@ -1,0 +1,6 @@
+Bus Number,Active Capacity (MW),Reactive Capacity (MVAr),Type,Cost Function
+1,4.0,2.5,Feeder (Conventional Generation),0.003P^2 + 12P + 240
+18,0.2,0.0,DG,0.0026P^2 + 10.26P + 210
+22,0.2,0.0,DG,0.0026P^2 + 10.26P + 210
+25,0.2,0.0,DG,0.0026P^2 + 10.26P + 210
+33,0.2,0.0,DG,0.0026P^2 + 10.26P + 210
